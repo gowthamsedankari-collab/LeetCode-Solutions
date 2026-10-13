@@ -14,9 +14,18 @@ My LeetCode Solutions in JAVA
 | ------- |
 | [0001-two-sum](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1207-unique-number-of-occurrences](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
