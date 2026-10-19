@@ -13,6 +13,7 @@ My LeetCode Solutions in JAVA
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1207-unique-number-of-occurrences](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -28,4 +29,16 @@ My LeetCode Solutions in JAVA
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
