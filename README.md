@@ -8,6 +8,7 @@ My LeetCode Solutions in JAVA
 | ------- |
 | [0001-two-sum](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1207-unique-number-of-occurrences](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -41,6 +42,7 @@ My LeetCode Solutions in JAVA
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
