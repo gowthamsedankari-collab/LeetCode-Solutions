@@ -34,6 +34,7 @@ My LeetCode Solutions in JAVA
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
