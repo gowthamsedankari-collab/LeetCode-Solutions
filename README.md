@@ -36,6 +36,7 @@ My LeetCode Solutions in JAVA
 | [0007-reverse-integer](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0509-fibonacci-number](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,4 +49,16 @@ My LeetCode Solutions in JAVA
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/gowthamsedankari-collab/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
